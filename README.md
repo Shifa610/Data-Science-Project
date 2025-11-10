@@ -18,7 +18,10 @@ Linear Regression – baseline model
 
 💡 Future Work
   -Integrate news sentiment analysis
+  
   -Include macroeconomic indicators
+  
   -Deploy as a real-time web dashboard
+  
   -Experiment with transformer-based time-series models
 
